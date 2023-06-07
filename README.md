@@ -1,2 +1,2 @@
-# rely
+# Rely
 Manage dependencies on resources
